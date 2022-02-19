@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Deducción Salarial</string>
+    <string name="hint_name">Ingrese su nombre</string>
+    <string name="hint_horas">Ingrese las horas trabajadas</string>
+    <string name="btn_name">Calcular Salario</string>
+    <string name="hint_det">Detalles</string>
+    <string name="btn_final">Regresar</string>
+</resources>
